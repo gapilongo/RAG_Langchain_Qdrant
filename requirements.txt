@@ -1,0 +1,12 @@
+langchain
+sentence_transformers
+torch
+pypdf
+qdrant-client
+logging
+langchain_community
+unstructured
+unstructured[pdf]
+pymupdf
+openai
+langchain_openai
